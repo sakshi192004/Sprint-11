@@ -7,7 +7,7 @@ This project demonstrates frontend-backend integration, REST API development, da
 ---
 ##Links
 
-Live:- https://cine-stream-sprint-08.vercel.app/
+Live:- https://sprint-11-bice.vercel.app/
 
 Video:- https://drive.google.com/file/d/1xNb9kmITUVwXk-SaVpsbfF-N1YD3-lI5/view?usp=sharing
 
